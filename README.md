@@ -6,3 +6,5 @@ https://docs.google.com/document/d/1NcjFD2pMzt3tOzNcipoI0_hyFF1FETYzK3WsFcMFxyg/
 https://docs.google.com/document/d/1Thy7E2yp8Hb7lnaKGW5qY6wW3nSxGb3KjIHDvjbBtrw/edit?usp=sharing
 # lab4
 https://docs.google.com/document/d/19P90W7egH4JFEYoNJ37SUrm_6LvgUuTiZKfrc4FTI8M/edit?usp=sharing
+# lab6
+https://docs.google.com/document/d/1FWHmz_To31DaZuKnYXsvUbtK44zO4xabOI4Fgh7wvD4/edit?usp=sharing
